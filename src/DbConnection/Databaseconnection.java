@@ -47,7 +47,7 @@ public class Databaseconnection {
 
 	
 	/**
-	 * InsertStatement function will add
+	 * Insert Statement function will add
 	 * given values to the specified Database
 	 * */
 	public String insertstatement(String query) {
